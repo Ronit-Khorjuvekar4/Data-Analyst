@@ -1,4 +1,4 @@
-As a Data Analyst Excel, Tableau, PowerBI, and Mysql are Important. 
+As a Data Analyst; Excel, Tableau, PowerBI, and Mysql are Important. 
 Here, you will find me working on :
   1. Data Visualization
   2. Extract Transform and Load (ETL) process
