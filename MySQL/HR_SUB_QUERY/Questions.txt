@@ -1,0 +1,79 @@
+/* write a query to display the name for those employee who gets more salary than the employee ID 103*/
+        
+/*write a query to diplay the name ,salary, department id, job id, from whose employees who works in same designation as the employee who works whos id is 169*/  
+    
+/*write a query to display the name , salary, department id for those employees who earn such amount of salary which is smallet salary of any of the department*/
+
+/*write a query to display the employee id, name, for al employees who earn more than the average salary*/
+
+/* write a query to display name, employee id, and salary of all employees who report to payam *
+        
+/*write a query to display department number, name, job and department name for all employees in finance department*/
+           
+/*write a query to display all the information of an employee whoes salary and reporting person id is 4800 and 103 respectively*/
+    
+/*Display all the information of an employee whoes id is any of the number 134, 159,183*/
+    
+/*Write a query to display all the information of the employees whoes salary is within range 1000 and 3000*/
+
+/*Write a query to display all the information of the employees who salary is withn the range of smallest salary and 2500 */
+      
+/*Write a query to display all the information of the employees, who does not work in those department, where some 
+employees works whoes manager id within range 100 and 200*/
+
+/*Write a query to display all the information of the employees, whoes id is any id who earn the second highest salary*/
+
+/*Write a query to display employee name and hiredate for all employees in the same department as clara. Exclude clara*/
+     
+/*/*Write a query to display employee number and name for all employees who work in a department WITH ANY EMPLOYEE who name contains T*/
+                 
+/*/*Write a query to display employee number, name and salary of all employees 
+who earn more than everage salary and who work in a department with any employee with a J in their name*/
+      
+/*write a query to display the employee number, name, and job title 
+whoes salary is smaller than any salary of thoes employees whoes job title is 'ACCOUNTANT'*/
+ 
+/*write a query to display the employee number, name, and job title 
+whoes salary is more than any salary of thoes employees whoes job title is 'ACCOUNTANT'*/
+
+/*write a query to display the employee number,name, job title, for all employees whoes salary is more than average salary of any department*/
+
+/*write a query to display the employee name, department for all employees for all existence for those employees whoes salary is more than 3700*/
+
+/*write a query to display the department id and total salary for those employees which contains atlest one employee*/
+
+/*write a query to display the employee no, name, job title with a modified title 
+SALESMAN for those employees whoes job title is sales representative and DEVELOPER for job title programmer*/
+
+/*write a query to display the employee no,name, salary and salaryStatus column
+with a title HIGH and LOW respectively for those employees whoes salary is more than and less than of average salary of all employees*/
+
+/* write as query to display the employee id, name, salaryDrawn, Avgcompare (salary - average salaryof all employees)
+and the salary status column with the title high and low respective of those employees whoes salary is more than and less than of average salary of all employees*/
+
+
+        
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+
+    
+
+
+
+
+
+
+
+
